@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch DEV-1
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   HW1.sln
+#	new file:   HW1.v12.suo
+#	new file:   HW1/App.config
+#	new file:   HW1/HW1.csproj
+#	new file:   HW1/Program.cs
+#	new file:   HW1/Properties/AssemblyInfo.cs
+#	new file:   HW1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   HW1/obj/Debug/HW1.csproj.FileListAbsolute.txt
+#	new file:   HW1/obj/Debug/HW1.csprojResolveAssemblyReference.cache
+#	new file:   HW1/obj/Debug/HW1.exe
+#	new file:   HW1/obj/Debug/HW1.pdb
+#	new file:   HW1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   HW1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   HW1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#
+# Untracked files:
+#	HW1/bin/
+#
